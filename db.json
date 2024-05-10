@@ -1,41 +1,50 @@
 {
-  "name": "bill's restaurant",
-  "suggestedTips": [15, 22, 25],
-  "items": [
+  "bills": [
     {
-      "id": 100,
-      "name": "Pinot Noir (glass)",
-      "price": 10
-    },
-    {
-      "id": 101,
-      "name": "Polenta Fries",
-      "price": 15
-    },
-    {
-      "id": 102,
-      "name": "Porchetta Panino",
-      "price": 18
-    },
-    {
-      "id": 103,
-      "name": "Lamb Burger",
-      "price": 17
-    },
-    {
-      "id": 104,
-      "name": "Margherita pizza",
-      "price": 20
-    },
-    {
-      "id": 105,
-      "name": "Shepherd’s Pie",
-      "price": 19
-    },
-    {
-      "id": 106,
-      "name": "IPA",
-      "price": 9
+      "id": 1,
+      "name": "bill's restaurant",
+      "suggestedTips": [
+        15,
+        22,
+        25
+      ],
+      "items": [
+        {
+          "id": 100,
+          "name": "Pinot Noir (glass)",
+          "price": 10
+        },
+        {
+          "id": 101,
+          "name": "Polenta Fries",
+          "price": 15
+        },
+        {
+          "id": 102,
+          "name": "Porchetta Panino",
+          "price": 18
+        },
+        {
+          "id": 103,
+          "name": "Lamb Burger",
+          "price": 17
+        },
+        {
+          "id": 104,
+          "name": "Margherita pizza",
+          "price": 20
+        },
+        {
+          "id": 105,
+          "name": "Shepherd’s Pie",
+          "price": 19
+        },
+        {
+          "id": 106,
+          "name": "IPA",
+          "price": 9
+        }
+      ]
     }
   ]
 }
